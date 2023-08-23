@@ -13,7 +13,7 @@ Recrie o ambiente conda usando o arquivo environment.yml fornecido.
 
 Mudar o caminho da pasta raíz no arquivo CVSC.py e config.py
 
-citação:
+Citação:
 
 dos Santos, Allan Costa N., Flávio Luiz Seixas, and Natalia Castro Fernandes. "Provendo um modelo automático de detecção de quedas baseado em rede adversária generativa para assistência de idosos." Anais do XXII Simpósio Brasileiro de Computação Aplicada à Saúde. SBC, 2022.
 
