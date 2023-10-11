@@ -20,6 +20,7 @@ dos Santos, Allan Costa N., Flávio Luiz Seixas, and Natalia Castro Fernandes. "
 Mehta, Vineet, et al. "Motion and region aware adversarial learning for fall detection with thermal imaging." 2020 25th International Conference on Pattern Recognition (ICPR). IEEE, 2021.
 
 =================================
+
 Esforço-me para que eles sejam fortalecidos em seus corações, estejam unidos em amor e alcancem toda a riqueza do pleno entendimento, a fim de conhecerem plenamente o mistério de Deus, a saber, Cristo.
 Nele estão escondidos todos os tesouros da sabedoria e do conhecimento. 
 
